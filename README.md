@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @EirikWilhelmsen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EirikWilhelmsen/EirikWilhelmsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋Hello, my name is Eirik, and I am currently pursuing a degree in Data Science at UiS. 
+#### 💻 I have a strong passion for developing machine learning models and analyzing large-scale datasets. 
+#### 📝 Additionally, I am dedicated to producing comprehensive research papers that contribute to the field.
